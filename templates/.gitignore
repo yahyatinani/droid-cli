@@ -1,0 +1,42 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Build outputs
+build/
+*/build/
+out/
+*/out/
+
+# Local configuration
+local.properties
+gradle.properties
+local.defaults.properties
+
+# Gradle wrapper binaries – keep only the scripts and the properties file
+gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+
+# IDE files (Android Studio / IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+navigation.json
+/captures
+.externalNativeBuild
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log / temp
+*.log
+*.tmp
+
+# Kotlin incremental
+*.kotlin_module
