@@ -104,10 +104,10 @@ func main() {
     }
     
     fmt.Println("")
-    fmt.Println("🔨 Build System Versions")
-    fmt.Println("ℹ️  Target AGP Version:", AGPVersion)
-    fmt.Println("ℹ️  Target Kotlin Version:", KotlinVersion)
-    fmt.Println("ℹ️  Target Gradle Wrapper:", GradleVersion)
+    fmt.Println("🔨 Build System Targets")
+    fmt.Println("ℹ️  AGP Version:", AGPVersion)
+    fmt.Println("ℹ️  Kotlin Version:", KotlinVersion)
+    fmt.Println("ℹ️  Gradle Wrapper:", GradleVersion)
 
     fmt.Println(strings.Repeat("-", 50))
     // -------------------------------
