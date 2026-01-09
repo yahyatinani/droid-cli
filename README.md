@@ -1,4 +1,4 @@
-droid
+Modern Android projects CLI generator in Go
 ======
 Fast, interactive CLI for Android projects. Scaffold Compose apps instantly with a single binary. Includes Gradle wrapper and proper structure—no Bloated Studio needed.
 
